@@ -28,7 +28,7 @@ The Deployed link is right here: https://amal31497.github.io/Homework-3/
 
 Project Screenshots;
 
-![Alt text](demonstration.jpeg "First pop-up")
-![Alt text](final-result.jpeg "Final result")
+![Alt text](./Assets/demonstration.jpeg "First pop-up")
+![Alt text](./Assets/final-result.jpeg "Final result")
 
 
